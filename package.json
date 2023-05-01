@@ -1,0 +1,22 @@
+{
+  "name": "class-18",
+  "version": "1.0.0",
+  "description": "excercise for the class 18 of the Digital House course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErosFlugel/Class-18.git"
+  },
+  "author": "Eros Flugel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErosFlugel/Class-18/issues"
+  },
+  "homepage": "https://github.com/ErosFlugel/Class-18#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
