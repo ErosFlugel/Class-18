@@ -4,7 +4,7 @@
   "description": "excercise for the class 18 of the Digital House course",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodemon app.js"
   },
   "repository": {
     "type": "git",
